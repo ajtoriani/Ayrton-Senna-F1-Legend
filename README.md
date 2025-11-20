@@ -1,6 +1,6 @@
 # THE F1 LEGEND
 
-Este projeto é uma página web estática desenvolvida para homenagear Ayrton Senna. A página apresenta imagens icônicas, um texto biográfico e animações suaves usando a biblioteca GSAP. O layout é totalmente responsivo, adaptando-se a telas de desktop e dispositivos móveis.
+Este é um projeto educacional desenvolvido como protótipo para estudos de HTML, CSS e JavaScript básico (com uso da biblioteca GSAP para animação). O site é um tributo à carreira e ao legado do piloto brasileiro Ayrton Senna
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
@@ -12,7 +12,7 @@ Este projeto é uma página web estática desenvolvida para homenagear Ayrton Se
 ---
 
 ## Objetivo do Projeto
-Um tributo responsivo e animado ao lendário piloto de Fórmula 1, Ayrton Senna.
+Um tributo  animado ao lendário piloto de Fórmula 1, Ayrton Senna.
 
 ---
 
@@ -21,6 +21,12 @@ Um tributo responsivo e animado ao lendário piloto de Fórmula 1, Ayrton Senna.
 - CSS3: Para a estilização e responsividade (incluindo media queries).
 - JavaScript (ES6+): Para a lógica de animação e controle responsivo do GSAP.
 - GSAP (GreenSock Animation Platform): Para as animações de entrada dos elementos e o movimento do carro.
+
+## Funcionalidades
+- Galeria de Imagens: Seções visuais com imagens do piloto.
+- Carrossel Animado: Uma seção de imagens com animação automática usando CSS Keyframes e GSAP.
+- Vídeo Integrado: Incorporação de conteúdo multimídia.
+- Informações sobre o Legado: Detalhes sobre os títulos mundiais e o Instituto Ayrton Senna.
 
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma _issue_ ou um _pull request_.
